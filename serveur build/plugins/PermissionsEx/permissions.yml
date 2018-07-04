@@ -1,0 +1,114 @@
+groups:
+  joueur:
+    build: true
+    options:
+      default: true
+      prefix: '&8[&7joueur&8]&7 '
+    permissions:
+    - essentials.afk
+    - essentials.balancetop
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.msg
+    - -essentials.msg.color
+    - -essentials.msg.format
+    - -essentials.msg.magic
+    - -essentials.msg.url
+    - -essentials.chat.color
+    - -essentials.chat.format
+    - -essentials.chat.magic
+    - -essentials.chat.question
+    - -essentials.chat.shout
+    - -essentials.chat.spy
+    - -essentials.chat.url
+    - essentials.pay
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.tphere
+    - essentials.help
+
+
+  VIP:
+    build: true
+    options:
+      default: false
+      prefix: '&0[&6VIP&0]&7 '
+    inheritance:
+    - joueur
+    permissions:
+    - essentials.me
+    - plugin.vip
+
+
+  VIP+:
+    build: true
+    options:
+      default: false
+      prefix: '&0&l[&6&lVIP&4&l+&0&l]&7 '
+    inheritance:
+    - VIP
+    permissions:
+    - plugin.vip+
+
+
+  MVP:
+    build: true
+    options:
+      default: false
+      prefix: '&4&l[&6&lMVP&4&l]&7 &9'
+    inheritance:
+    - VIP+
+    permissions:
+    - plugin.mvp
+
+
+  modochat:
+    options:
+      default: false
+      prefix: '&0[&6VIP&0]&7 '
+    inheritance:
+    - MVP
+    permissions:
+    - plugin.modochat
+
+
+  admin:
+    options:
+      default: false
+      prefix: '&0[&6VIP&0]&7 '
+    inheritance:
+    - modochat
+    permissions:
+    - plugin.admin
+
+
+  responsablemodo:
+    options:
+      default: false
+      prefix: '&0[&6VIP&0]&4 '
+    inheritance:
+    - admin
+    permissions:
+    - plugin.responsablemodo
+
+
+  fondateur:
+    options:
+      default: false
+      prefix: '&4&l[&cFONDATEUR&4&l] &4'
+    inheritance:
+    - responsablemodo
+    permissions:
+    - plugin.fondateur
+
+
+schema-version: 1
+users:
+  2050a37d-a387-3edc-bb3a-5d8b1bf468ae:
+    group:
+    - fondateur
+    options:
+      name: flux666

@@ -1,0 +1,311 @@
+[21:30:18] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:30:18] [Server thread/INFO]: Loading properties
+[21:30:18] [Server thread/INFO]: Default game type: ADVENTURE
+[21:30:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[21:30:18] [Server thread/INFO]: Debug logging is disabled
+[21:30:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:30:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:30:18] [Server thread/INFO]: Generating keypair
+[21:30:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:30:19] [Server thread/INFO]: Using default channel type
+[21:30:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:30:20] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[21:30:20] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[21:30:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[21:30:20] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[21:30:20] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
+[21:30:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:30:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:30:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:30:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:30:20] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:30:20] [Server thread/INFO]: Preparing level "world"
+[21:30:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:30:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:30:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:30:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:30:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:30:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:30:20] [Server thread/INFO]: Mob Spawn Range: 4
+[21:30:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:30:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:30:20] [Server thread/INFO]: Random Lighting Updates: false
+[21:30:20] [Server thread/INFO]: Max TNT Explosions: 100
+[21:30:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:30:20] [Server thread/INFO]: Structure Info Saving: true
+[21:30:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:30:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:30:20] [Server thread/INFO]: View Distance: 10
+[21:30:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:30:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:30:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:30:21] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:30:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:30:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:30:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:30:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:30:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:30:21] [Server thread/INFO]: Mob Spawn Range: 4
+[21:30:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:30:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:30:21] [Server thread/INFO]: Random Lighting Updates: false
+[21:30:21] [Server thread/INFO]: Max TNT Explosions: 100
+[21:30:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:30:21] [Server thread/INFO]: Structure Info Saving: true
+[21:30:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:30:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:30:21] [Server thread/INFO]: View Distance: 10
+[21:30:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:30:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:30:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:30:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4690204976935695480)
+[21:30:22] [Server thread/INFO]: Preparing spawn area: 49%
+[21:30:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7822799477672410596)
+[21:30:23] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[21:30:23] [Server thread/INFO]: [PermissionsEx] Initializing sql backend
+[21:30:24] [Server thread/WARN]: Tue Jul 03 21:30:24 CEST 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[21:30:24] [Server thread/WARN]: Tue Jul 03 21:30:24 CEST 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[21:30:24] [Server thread/INFO]: [PermissionsEx] Successfully connected to SQL database
+[21:30:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[21:30:25] [pool-7-thread-1/WARN]: java.io.IOException: Server returned HTTP response code: 401 for URL: https://api.github.com/gists
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at ru.tehkode.permissions.bukkit.ErrorReport.gistText(ErrorReport.java:120)
+[21:30:25] [pool-7-thread-1/WARN]: 	at ru.tehkode.permissions.bukkit.ErrorReport$Builder.build(ErrorReport.java:374)
+[21:30:25] [pool-7-thread-1/WARN]: 	at ru.tehkode.permissions.bukkit.ErrorReport.withException(ErrorReport.java:330)
+[21:30:25] [pool-7-thread-1/WARN]: 	at ru.tehkode.permissions.bukkit.ErrorReport$2.run(ErrorReport.java:193)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[21:30:25] [pool-7-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[21:30:25] [pool-7-thread-1/ERROR]: [PermissionsEx] Error occurred with PermissionsEx! Please post it to http://git.io/<html><body>You are being <a href="https://git.io/create">redirected</a>.</body></html>. Full error:
+ru.tehkode.permissions.exceptions.PermissionBackendException: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Champ 'prefix' inconnu dans field list
+	at ru.tehkode.permissions.backends.sql.SQLBackend$3.performUpdate(SQLBackend.java:186)
+	at ru.tehkode.permissions.backends.PermissionBackend.performSchemaUpdate(PermissionBackend.java:90)
+	at ru.tehkode.permissions.backends.sql.SQLBackend.<init>(SQLBackend.java:192)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:392)
+	at ru.tehkode.permissions.backends.PermissionBackend.getBackend(PermissionBackend.java:367)
+	at ru.tehkode.permissions.PermissionManager.createBackend(PermissionManager.java:624)
+	at ru.tehkode.permissions.PermissionManager.setBackend(PermissionManager.java:606)
+	at ru.tehkode.permissions.PermissionManager.initBackend(PermissionManager.java:693)
+	at ru.tehkode.permissions.PermissionManager.<init>(PermissionManager.java:67)
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onEnable(PermissionsEx.java:175)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:382)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:331)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338)
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Champ 'prefix' inconnu dans field list
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:943)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2487)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1966)
+	at ru.tehkode.libs.org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at ru.tehkode.libs.org.apache.commons.dbcp.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:96)
+	at ru.tehkode.permissions.backends.sql.SQLBackend$3.performUpdate(SQLBackend.java:161)
+	... 24 more
+
+[21:30:26] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[21:30:26] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[21:30:26] [Server thread/WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 10.0.1).
+[21:30:26] [Server thread/WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[21:30:26] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[21:30:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:30:26] [Server thread/INFO]: Done (6,047s)! For help, type "help" or "?"
+[21:30:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[21:30:26] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version, please read our resource page carefully.
+[21:30:56] [User Authenticator #1/INFO]: UUID of player flux666 is 2050a37d-a387-3edc-bb3a-5d8b1bf468ae
+[21:30:56] [Server thread/INFO]: flux666[/127.0.0.1:62126] logged in with entity id 50 at ([world]13.203153066551288, 168.0, -7.445209678894361)
+[21:37:37] [Server thread/INFO]: flux666 issued server command: //pos1
+[21:37:40] [Server thread/INFO]: flux666 issued server command: //pos2
+[21:37:44] [Server thread/INFO]: flux666 issued server command: //set grass
+[21:37:56] [Server thread/INFO]: flux666 issued server command: /setblock ~ ~ ~ minecraft:grass
+[21:37:56] [Server thread/INFO]: [flux666: The number you have entered (269,00) is too big, it must be at most 256]
+[21:46:04] [Server thread/INFO]: flux666 issued server command: //cut
+[21:46:26] [Server thread/INFO]: flux666 issued server command: //cut
+[21:57:29] [Server thread/INFO]: flux666 issued server command: //pos2
+[21:57:38] [Server thread/INFO]: flux666 issued server command: //copy
+[21:58:11] [Server thread/INFO]: flux666 issued server command: //paste
+[21:58:16] [Server thread/INFO]: flux666 issued server command: //undo
+[21:58:24] [Server thread/INFO]: flux666 issued server command: //paste
+[21:58:28] [Server thread/INFO]: flux666 issued server command: //undo
+[21:58:36] [Server thread/INFO]: flux666 issued server command: //paste
+[21:58:58] [Server thread/INFO]: flux666 issued server command: //paste
+[21:59:04] [Server thread/INFO]: flux666 issued server command: //undo
+[21:59:06] [Server thread/INFO]: flux666 issued server command: //undo
+[21:59:46] [Server thread/INFO]: flux666 issued server command: //copy
+[21:59:52] [Server thread/INFO]: flux666 issued server command: //pos2
+[21:59:54] [Server thread/INFO]: flux666 issued server command: //copy
+[22:00:12] [Server thread/INFO]: flux666 issued server command: //copy
+[22:00:44] [Server thread/INFO]: flux666 issued server command: //paste
+[22:00:57] [Server thread/INFO]: flux666 issued server command: //undo
+[22:01:56] [Server thread/INFO]: flux666 issued server command: //pos2
+[22:01:59] [Server thread/INFO]: flux666 issued server command: //copy
+[22:02:38] [Server thread/INFO]: flux666 issued server command: //paste
+[22:02:46] [Server thread/INFO]: flux666 issued server command: //undo
+[22:02:49] [Server thread/INFO]: flux666 issued server command: //copy
+[22:02:58] [Server thread/INFO]: flux666 issued server command: //copy
+[22:03:03] [Server thread/INFO]: flux666 issued server command: //paste
+[22:03:17] [Server thread/INFO]: flux666 issued server command: //paste
+[22:03:52] [Server thread/INFO]: flux666 issued server command: //copy
+[22:03:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:04:06] [Server thread/INFO]: flux666 issued server command: //undo
+[22:04:14] [Server thread/INFO]: flux666 issued server command: //paste
+[22:04:41] [Server thread/INFO]: flux666 issued server command: //copy
+[22:04:45] [Server thread/INFO]: flux666 issued server command: //paste
+[22:04:52] [Server thread/INFO]: flux666 issued server command: //undo
+[22:05:03] [Server thread/INFO]: flux666 issued server command: //undo
+[22:05:06] [Server thread/INFO]: flux666 issued server command: //undo
+[22:05:07] [Server thread/INFO]: flux666 issued server command: //undo
+[22:05:08] [Server thread/INFO]: flux666 issued server command: //undo
+[22:05:18] [Server thread/INFO]: flux666 issued server command: //redo
+[22:06:11] [Server thread/INFO]: flux666 issued server command: //copy
+[22:06:28] [Server thread/INFO]: flux666 issued server command: //paste
+[22:06:33] [Server thread/INFO]: flux666 issued server command: //undo
+[22:06:40] [Server thread/INFO]: flux666 issued server command: //paste
+[22:06:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:07:15] [Server thread/INFO]: flux666 issued server command: //paste
+[22:07:35] [Server thread/INFO]: flux666 issued server command: //copy
+[22:07:41] [Server thread/INFO]: flux666 issued server command: //paste
+[22:08:01] [Server thread/INFO]: flux666 issued server command: //pos2
+[22:08:21] [Server thread/INFO]: flux666 issued server command: //copy
+[22:08:33] [Server thread/INFO]: flux666 issued server command: //paste
+[22:08:54] [Server thread/INFO]: flux666 issued server command: //paste
+[22:08:59] [Server thread/INFO]: flux666 issued server command: //undo
+[22:10:45] [Server thread/INFO]: flux666 issued server command: //copy
+[22:10:49] [Server thread/INFO]: flux666 issued server command: //paste
+[22:10:53] [Server thread/INFO]: flux666 issued server command: //paste
+[22:10:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:10:58] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:00] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:02] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:20] [Server thread/INFO]: flux666 issued server command: //rotate 90
+[22:11:24] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:29] [Server thread/INFO]: flux666 issued server command: //undo
+[22:11:33] [Server thread/INFO]: flux666 issued server command: //rotate 180
+[22:11:37] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:40] [Server thread/INFO]: flux666 issued server command: //paste
+[22:11:57] [Server thread/INFO]: flux666 issued server command: //rotate 180
+[22:12:01] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:08] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:10] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:12] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:17] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:23] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:25] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:27] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:32] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:36] [Server thread/INFO]: flux666 issued server command: //undo
+[22:12:47] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:53] [Server thread/INFO]: flux666 issued server command: //paste
+[22:12:56] [Server thread/INFO]: flux666 issued server command: //paste
+[22:18:50] [Server thread/INFO]: flux666 issued server command: //copy
+[22:18:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:18:59] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:04] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:06] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:09] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:12] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:13] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:15] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:18] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:29] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:33] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:35] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:38] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:39] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:41] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:42] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:44] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:45] [Server thread/INFO]: flux666 issued server command: //paste
+[22:19:48] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:00] [Server thread/INFO]: flux666 issued server command: //copy
+[22:25:06] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:08] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:14] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:16] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:21] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:26] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:29] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:31] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:53] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:25:57] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:00] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:01] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:06] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:11] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:15] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:25] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:36] [Server thread/INFO]: flux666 issued server command: //undo
+[22:26:38] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:44] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:46] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:47] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:49] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:51] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:53] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:54] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:55] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:57] [Server thread/INFO]: flux666 issued server command: //paste
+[22:26:58] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:00] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:02] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:05] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:14] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:20] [Server thread/INFO]: flux666 issued server command: //paste
+[22:27:22] [Server thread/INFO]: flux666 issued server command: //paste
+[22:30:32] [Server thread/INFO]: flux666 issued server command: //cut
+[22:30:40] [Server thread/INFO]: flux666 issued server command: //cut
+[23:12:41] [Server thread/INFO]: Stopping the server
+[23:12:41] [Server thread/INFO]: Stopping server
+[23:12:41] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
+[23:12:41] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[23:12:41] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[23:12:41] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[23:12:41] [Server thread/INFO]: Saving players
+[23:12:41] [Server thread/INFO]: flux666 lost connection: Server closed
+[23:12:41] [Server thread/INFO]: flux666 left the game
+[23:12:42] [Server thread/INFO]: Saving worlds
+[23:12:42] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:12:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

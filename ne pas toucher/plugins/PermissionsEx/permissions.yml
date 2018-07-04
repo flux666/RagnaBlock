@@ -1,0 +1,144 @@
+groups:
+  geste:
+    options:
+      default: true
+      prefix: '&7geste'
+    permissions:
+    - spawn.use
+    - lobby.use
+    - money.use
+    - minecraft.command.list
+    - -bukkit.command.version
+    - -bukkit.command.plugins
+    - -bukkit.command.help
+    - -bukkit.command.reload
+    - -bukkit.command.timings
+    - discordmc.chat
+  VIP:
+    options:
+      default: false
+      prefix: '&4[&6&lVIP&4]'
+    permissions:
+    - spawn.use
+    - lobby.use
+    - money.use
+    - minecraft.command.list
+    - minecraft.command.me
+    - minecraft.command.tell
+    - -bukkit.command.version
+    - -bukkit.command.plugins
+    - -bukkit.command.help
+    - -bukkit.command.reload
+    - -bukkit.command.timings
+    - discordmc.chat
+    - hub.fly
+  VIP+:
+    options:
+      default: false
+      prefix: '&4[&6&lVIP&0&l+&4]'
+    permissions:
+    - spawn.use
+    - lobby.use
+    - money.use
+    - minecraft.command.list
+    - minecraft.command.me
+    - minecraft.command.tell
+    - -bukkit.command.version
+    - -bukkit.command.plugins
+    - -bukkit.command.help
+    - -bukkit.command.reload
+    - -bukkit.command.timings
+    - discordmc.chat
+    - hub.fly
+  ADMIN:
+    options:
+      default: false
+      prefix: '&2[ADMIN]'
+    permissions:
+    - spawn.use
+    - lobby.use
+    - money.use
+    - moderation.mod
+    - mod.receive
+    - admin.use
+    - tntrun.admin
+    - pvpbox.admin
+    - as.admin
+    - ban.def
+    - ban.unban
+    - dan.tempban
+    - minecraft.command.clear
+    - minecraft.command.gamemode
+    - minecraft.command.give
+    - minecraft.command.kick
+    - minecraft.command.list
+    - minecraft.command.me
+    - minecraft.command.setblock
+    - minecraft.command.spawnpoint
+    - minecraft.command.summon
+    - minecraft.command.tell
+    - minecraft.command.tellraw
+    - minecraft.command.time
+    - minecraft.command.tp
+    - minecraft.command.weather
+    - discordmc.chat
+    - discordmc.command.<argument>
+    - minecraft.command.effect
+    - hub.fly
+  superADMIN:
+    options:
+      default: false
+      prefix: §4§l[superADMIN]
+    permissions:
+    - spawn.use
+    - lobby.use
+    - money.use
+    - moderation.mod
+    - mod.receive
+    - admin.use
+    - tntrun.admin
+    - pvpbox.admin
+    - as.admin
+    - ban.def
+    - ban.unban
+    - dan.tempban
+    - rank.admin
+    - minecraft.command.achievement
+    - -minecraft.command.ban
+    - -minecraft.command.ban-ip
+    - minecraft.command.clear
+    - minecraft.command.gamemode
+    - minecraft.command.give
+    - minecraft.command.kick
+    - minecraft.command.list
+    - minecraft.command.me
+    - minecraft.command.setblock
+    - minecraft.command.spawnpoint
+    - minecraft.command.stop
+    - minecraft.command.summon
+    - minecraft.command.tell
+    - minecraft.command.tellraw
+    - minecraft.command.time
+    - minecraft.command.tp
+    - minecraft.command.weather
+    - discordmc.chat
+    - discordmc.command.<argument>
+    - minecraft.command.effect
+    - hub.fly
+    - minecraft.command.whitelist
+  FONDATEUR:
+    options:
+      default: false
+      prefix: §c§l[FONDATEUR]
+    permissions:
+    - -minecraft.command.ban
+    - -minecraft.command.ban-ip
+    - -minecraft.command.banlist
+    - minecraft.command.op
+schema-version: 1
+users:
+  2050a37d-a387-3edc-bb3a-5d8b1bf468ae:
+    group:
+    - superADMIN
+    options:
+      name: flux666

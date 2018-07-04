@@ -1,0 +1,656 @@
+[21:58:13] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:58:13] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[21:58:13] [Server thread/INFO]: Loading properties
+[21:58:13] [Server thread/INFO]: Default game type: CREATIVE
+[21:58:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[21:58:13] [Server thread/INFO]: Debug logging is disabled
+[21:58:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:58:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:58:13] [Server thread/INFO]: Generating keypair
+[21:58:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:58:14] [Server thread/INFO]: Using default channel type
+[21:58:15] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:58:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[21:58:15] [Server thread/INFO]: [pluginModerration] Loading pluginModerration v1.0
+[21:58:15] [Server thread/INFO]: [MonPlugin] Loading MonPlugin v1.1
+[21:58:15] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[21:58:15] [Server thread/INFO]: [pluginPVPbox] Loading pluginPVPbox v1.0
+[21:58:15] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+[21:58:15] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:58:15] [Server thread/INFO]: Preparing level "world"
+[21:58:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:58:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:58:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:58:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:58:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:58:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:58:15] [Server thread/INFO]: View Distance: 10
+[21:58:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:58:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:58:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:58:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:58:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:58:15] [Server thread/INFO]: Mob Spawn Range: 4
+[21:58:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:58:15] [Server thread/INFO]: Max TNT Explosions: 100
+[21:58:15] [Server thread/INFO]: Structure Info Saving: true
+[21:58:15] [Server thread/INFO]: Random Lighting Updates: false
+[21:58:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:58:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:58:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:58:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:58:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:58:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:58:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:58:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:58:17] [Server thread/INFO]: View Distance: 10
+[21:58:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:58:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:58:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:58:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:58:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Mob Spawn Range: 4
+[21:58:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:58:17] [Server thread/INFO]: Max TNT Explosions: 100
+[21:58:17] [Server thread/INFO]: Structure Info Saving: true
+[21:58:17] [Server thread/INFO]: Random Lighting Updates: false
+[21:58:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:58:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:58:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:58:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:58:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:58:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:58:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:58:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:58:17] [Server thread/INFO]: View Distance: 10
+[21:58:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:58:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:58:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:58:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:58:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:58:17] [Server thread/INFO]: Mob Spawn Range: 4
+[21:58:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:58:17] [Server thread/INFO]: Max TNT Explosions: 100
+[21:58:17] [Server thread/INFO]: Structure Info Saving: true
+[21:58:17] [Server thread/INFO]: Random Lighting Updates: false
+[21:58:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:58:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:58:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3399035450185739534)
+[21:58:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:58:20] [Server thread/INFO]: Preparing spawn area: 14%
+[21:58:21] [Server thread/INFO]: Preparing spawn area: 28%
+[21:58:22] [Server thread/INFO]: Preparing spawn area: 39%
+[21:58:23] [Server thread/INFO]: Preparing spawn area: 50%
+[21:58:24] [Server thread/INFO]: Preparing spawn area: 64%
+[21:58:25] [Server thread/INFO]: Preparing spawn area: 80%
+[21:58:26] [Server thread/INFO]: Preparing spawn area: 98%
+[21:58:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3399035450185739534)
+[21:58:27] [Server thread/INFO]: Preparing spawn area: 6%
+[21:58:28] [Server thread/INFO]: Preparing spawn area: 20%
+[21:58:29] [Server thread/INFO]: Preparing spawn area: 34%
+[21:58:30] [Server thread/INFO]: Preparing spawn area: 48%
+[21:58:31] [Server thread/INFO]: Preparing spawn area: 60%
+[21:58:32] [Server thread/INFO]: Preparing spawn area: 75%
+[21:58:33] [Server thread/INFO]: Preparing spawn area: 90%
+[21:58:34] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3399035450185739534)
+[21:58:35] [Server thread/INFO]: Preparing spawn area: 53%
+[21:58:35] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[21:58:36] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:58:36] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[21:58:36] [Server thread/INFO]: [pluginModerration] Enabling pluginModerration v1.0
+[21:58:36] [Server thread/INFO]: [modérration 1.0] vien de s'allumer
+[21:58:36] [Server thread/INFO]: [MonPlugin] Enabling MonPlugin v1.1
+[21:58:36] [Server thread/INFO]: [mon-plugin 1.1] vien de s'allumer
+[21:58:37] [Server thread/WARN]: Thu Jan 04 21:58:37 CET 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[21:58:37] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[21:58:38] [Server thread/INFO]: -------- World Settings For [PVPbox] --------
+[21:58:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:58:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:58:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:58:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:58:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:58:38] [Server thread/INFO]: View Distance: 10
+[21:58:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:58:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:58:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:58:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:58:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:58:38] [Server thread/INFO]: Mob Spawn Range: 4
+[21:58:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:58:38] [Server thread/INFO]: Max TNT Explosions: 100
+[21:58:38] [Server thread/INFO]: Structure Info Saving: true
+[21:58:38] [Server thread/INFO]: Random Lighting Updates: false
+[21:58:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:58:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:58:38] [Server thread/INFO]: Preparing start region for level 3 (Seed: -8275088134907221731)
+[21:58:39] [Server thread/INFO]: Preparing spawn area for PVPbox, 44%
+[21:58:41] [Server thread/INFO]: -------- World Settings For [TNTrun] --------
+[21:58:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:58:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:58:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:58:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:58:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:58:41] [Server thread/INFO]: View Distance: 10
+[21:58:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:58:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:58:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:58:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[21:58:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:58:41] [Server thread/INFO]: Mob Spawn Range: 4
+[21:58:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:58:41] [Server thread/INFO]: Max TNT Explosions: 100
+[21:58:41] [Server thread/INFO]: Structure Info Saving: true
+[21:58:41] [Server thread/INFO]: Random Lighting Updates: false
+[21:58:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:58:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:58:41] [Server thread/INFO]: Preparing start region for level 4 (Seed: 2786656619203075492)
+[21:58:42] [Server thread/INFO]: Preparing spawn area for TNTrun, 89%
+[21:58:42] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[21:58:43] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[21:58:43] [Server thread/INFO]: [pluginPVPbox] Enabling pluginPVPbox v1.0
+[21:58:43] [Server thread/INFO]: [plugin-PVPbox] s'est allumer
+[21:58:43] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+[21:58:43] [Server thread/INFO]: [Multiverse-Inventories 2.5.0-SNAPSHOT-b418] enabled.
+[21:58:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:58:43] [Server thread/INFO]: Done (28,151s)! For help, type "help" or "?"
+[21:59:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:59:33] [Server thread/INFO]: Game rule randomTickSpeed has been updated to 0
+[21:59:48] [User Authenticator #1/INFO]: UUID of player flux666 is 6d3c9b68-86bc-47de-9f65-7c53d1c595f1
+[21:59:49] [Server thread/INFO]: flux666[/127.0.0.1:57583] logged in with entity id 30 at ([world]-200.5, 70.0, 269.5)
+[21:59:59] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:00:09] [Server thread/INFO]: flux666 issued server command: /gamemode 1
+[22:00:09] [Server thread/INFO]: [flux666: Set own game mode to Creative Mode]
+[22:01:42] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:02:43] [Server thread/INFO]: flux666 issued server command: /money
+[22:03:18] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m][0;32;22m[FONDATEUR] flux666 : [0;31;1mb[m
+[22:03:23] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:03:30] [Async Chat Thread - #0/INFO]: [[0;37;1mworld[0;37;1m][0;32;22m[FONDATEUR] flux666 : [0;31;1mbonjour[m
+[22:05:04] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:06:45] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:08:26] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:10:08] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:11:50] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:13:31] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:15:14] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:16:55] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:18:35] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:20:16] [Server thread/WARN]: [MonPlugin] Task #2 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:20:46] [Server thread/INFO]: flux666 lost connection: Disconnected
+[22:20:47] [Server thread/INFO]: flux666 left the game
+[22:20:56] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[22:20:56] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[22:20:57] [Server thread/INFO]: Debug logging is disabled
+[22:20:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:20:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:20:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:20:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:20:57] [Server thread/INFO]: View Distance: 10
+[22:20:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:20:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:20:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:20:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:57] [Server thread/INFO]: Structure Info Saving: true
+[22:20:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:20:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:20:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:20:57] [Server thread/INFO]: View Distance: 10
+[22:20:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:20:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:20:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:20:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:57] [Server thread/INFO]: Structure Info Saving: true
+[22:20:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:20:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:20:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:20:57] [Server thread/INFO]: View Distance: 10
+[22:20:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:20:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:20:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:20:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:57] [Server thread/INFO]: Structure Info Saving: true
+[22:20:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:20:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:57] [Server thread/INFO]: -------- World Settings For [PVPbox] --------
+[22:20:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:20:57] [Server thread/INFO]: View Distance: 10
+[22:20:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:20:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:20:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:20:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:57] [Server thread/INFO]: Structure Info Saving: true
+[22:20:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:20:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:57] [Server thread/INFO]: -------- World Settings For [TNTrun] --------
+[22:20:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:20:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:20:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:20:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:20:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:20:57] [Server thread/INFO]: View Distance: 10
+[22:20:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:20:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:20:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:20:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:20:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:20:57] [Server thread/INFO]: Mob Spawn Range: 4
+[22:20:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:20:57] [Server thread/INFO]: Max TNT Explosions: 100
+[22:20:57] [Server thread/INFO]: Structure Info Saving: true
+[22:20:57] [Server thread/INFO]: Random Lighting Updates: false
+[22:20:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:20:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:20:57] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+[22:20:59] [Server thread/INFO]: [pluginPVPbox] Disabling pluginPVPbox v1.0
+[22:20:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[22:20:59] [Server thread/INFO]: [MonPlugin] Disabling MonPlugin v1.1
+[22:20:59] [Server thread/INFO]: [mon-plagin 1.1] vien de s'eteidre
+[22:21:00] [Server thread/INFO]: [pluginModerration] Disabling pluginModerration v1.0
+[22:21:00] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:21:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:21:06] [Server thread/INFO]: [pluginModerration] Loading pluginModerration v1.0
+[22:21:06] [Server thread/INFO]: [MonPlugin] Loading MonPlugin v1.1
+[22:21:06] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[22:21:07] [Server thread/INFO]: [pluginPVPbox] Loading pluginPVPbox v1.0
+[22:21:07] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+[22:21:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:21:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:21:09] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[22:21:09] [Server thread/INFO]: [pluginModerration] Enabling pluginModerration v1.0
+[22:21:09] [Server thread/INFO]: [modérration 1.0] vien de s'allumer
+[22:21:09] [Server thread/INFO]: [MonPlugin] Enabling MonPlugin v1.1
+[22:21:09] [Server thread/INFO]: [mon-plugin 1.1] vien de s'allumer
+[22:21:09] [Server thread/WARN]: Thu Jan 04 22:21:09 CET 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[22:21:10] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[22:21:39] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[22:21:40] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[22:21:40] [Server thread/INFO]: [pluginPVPbox] Enabling pluginPVPbox v1.0
+[22:21:40] [Server thread/INFO]: [plugin-PVPbox] s'est allumer
+[22:21:40] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+[22:21:40] [Server thread/INFO]: [Multiverse-Inventories 2.5.0-SNAPSHOT-b418] enabled.
+[22:21:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:21:40] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[22:21:47] [User Authenticator #2/INFO]: UUID of player flux666 is 6d3c9b68-86bc-47de-9f65-7c53d1c595f1
+[22:21:48] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to MonPlugin v1.1
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.onPlayerJoin(PlayerList.java:346) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.PlayerList.a(PlayerList.java:166) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:159) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:57) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:233) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:140) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:845) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+Caused by: java.lang.IllegalArgumentException: Entry cannot be longer than 40 characters!
+	at org.bukkit.craftbukkit.v1_12_R1.scoreboard.CraftObjective.getScore(CraftObjective.java:96) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at fr.flux666.monplugin.Scorebords.Scorebords.onjoin(Scorebords.java:35) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_151]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	... 14 more
+[22:21:49] [Server thread/INFO]: flux666[/127.0.0.1:57624] logged in with entity id 128 at ([world]-200.5, 70.0, 269.5)
+[22:22:59] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:24:25] [Server thread/INFO]: flux666 issued server command: /g
+[22:24:28] [Async Chat Thread - #1/INFO]: [[0;37;1mworld[0;37;1m][0;31;1m[21m[FONDATEUR] flux666 : [0;31;1mg[m
+[22:24:41] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:24:54] [Server thread/INFO]: flux666 issued server command: /gamemode 1
+[22:24:54] [Server thread/INFO]: [flux666: Set own game mode to Creative Mode]
+[22:26:23] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:26:32] [Server thread/INFO]: flux666 issued server command: /money
+[22:27:01] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;31;1m[21m[FONDATEUR] flux666 : [0;31;1mbonjour[m
+[22:27:41] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;31;22m[[0;33;22m[21mVIP[0;31;22m] flux666 : [0;33;1mbonjour[m
+[22:28:05] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:28:37] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;31;22m[[0;33;22m[21mVIP[0;30;22m[21m+[0;31;22m] flux666 : [0;33;22mb[m
+[22:29:14] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;32;22m[ADMIN] flux666 : [0;36;1mb[m
+[22:29:35] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;31;22m[21m[super ADMIN] flux666 : [0;34;1mb[m
+[22:29:47] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[22:29:54] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m][0;31;1m[21m[FONDATEUR] flux666 : [0;31;1mb[m
+[22:30:54] [Async Chat Thread - #3/INFO]: [[0;37;1mworld[0;37;1m][0;37;22m flux666 : [0;37;22mb[m
+[22:31:22] [Server thread/INFO]: flux666 lost connection: Disconnected
+[22:31:22] [Server thread/INFO]: flux666 left the game
+[22:31:29] [Server thread/WARN]: [MonPlugin] Task #7 for MonPlugin v1.1 generated an exception
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(Unknown Source) ~[?:1.8.0_151]
+	at java.util.ArrayList.get(Unknown Source) ~[?:1.8.0_151]
+	at fr.flux666.monplugin.index$1.run(index.java:78) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-3d850ec-809c399]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot.jar:git-Spigot-3d850ec-809c399]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
